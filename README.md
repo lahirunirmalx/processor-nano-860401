@@ -1,2 +1,3 @@
 # processor-nano-860401
-WIP module
+
+Experimental module — not yet stable.
